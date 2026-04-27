@@ -1,5 +1,6 @@
-# 🏥 Medical Appointment No-Show Prediction
+## 🚀 Live Demo
 
+[![Open App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://medical-appointment-no-show-prediction-h5gtnnwg2uua2qyssxvya3.streamlit.app/)
 > **⚠️ Educational project only — not intended for real clinical or medical decision-making.**
 
 A full end-to-end data science and machine learning portfolio project that predicts whether a patient is likely to miss a hospital appointment, built with Python and deployed via Streamlit.
